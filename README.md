@@ -3,7 +3,8 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A highly motivated IT Professional with a proven track record of 3+ years working in the IT and Information Security industry. I'm eager to join a challenging position in a dynamic organization to apply this diverse skill set to tackle complex technical challenges and foster innovation in the IT field, while contributing to the organization's IT and Information Security initiatives.
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
